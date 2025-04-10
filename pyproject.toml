@@ -20,7 +20,7 @@ opentelemetry-sdk-extension-aws = "^2.0.1"
 requests = "^2.32.3"
 
 [tool.poetry.group.dev.dependencies]
-pre-commit = "^3.3.3"
+pre-commit = ">=3.3.3,<5.0.0"
 pytest = "^7.3.2"
 requests-mock = "^1.11.0"
 tox = "^4.6.3"
