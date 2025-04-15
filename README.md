@@ -8,7 +8,7 @@ A set of utility functions for running Django & Flask apps in AWS ECS via AWS Co
 
 ### Supported Python versions
 
-3.9, 3.10, 3.11 and 3.12.
+3.9, 3.10, 3.11, 3.12 and 3.13.
 
 ### Installation
 
